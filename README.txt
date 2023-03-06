@@ -1,22 +1,5 @@
 Le dossier composant ce fichier README est le dossier principal qui héberge les différentes fonctions de notre RPG.
-Veuillez le lire jusqu'à la fin pour comprendre comment ça marche.
-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- Les membres du groupe-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
-
-                                          
-                🧑‍🎓 EKLOU-DOVI BLESSING-GRACE  
-Elle a géré la cohérence entre les fonctions et le menu 🗓️  
-                                                
-                    🧑‍🎓 ISSIAKENE Hanane       
-    Elle a géré le niveau3 et le test des fonctionnalités 📽️   
-                                                
-                👨‍🎓 AGBAHE Manuel Govinda   
-                Il a géré les niveaux 1 et 2 👨‍⚕️ 
-
-                    👨‍🎓 GLIN-DAYI Faithgot      
-Il a géré la cohérence entre les niveaux et le niveau5    
-                                                  
-                    🧑‍🎓 KHALIL Lamiaa        
-                Elle a géré le niveaux 4 🤺   
+Veuillez le lire jusqu'à la fin pour comprendre comment ça marche.  
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- Le contexte du Jeu -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 Mia est une jeune fille de 15 ans qui a s'est fait capturer par une ogre . La disparition de Mia éveil le village tout entier sur la menace qu'est cette Ogre
