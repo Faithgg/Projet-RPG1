@@ -64,3 +64,12 @@ il a la possibilité de prendre des points représentés par "€" et de surtout
 Les points/argents dans cette partie lui serviront de pièces pour payer à la boutique des vies en cas de manque de vie. C'est une façon 
 de faire pour lui permettre d'utiliser ses pièces pour se réanimer. Autant pour un joueur de ne pas négliger ces pièces car c'est un labyrinthe
 peu complexe. La sortie de ce labyrinthe est là où se trouve les enfants à récupérer.
+
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 34 56" src="https://user-images.githubusercontent.com/121299370/235998646-a7d2ba02-8a66-48ff-834e-55bc4e147add.png">
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 35 26" src="https://user-images.githubusercontent.com/121299370/235998803-c67e9611-351e-4580-975a-3f936a4cb37d.png">
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 36 19" src="https://user-images.githubusercontent.com/121299370/235999067-854ff397-8e64-44e2-97d7-89993ade2744.png">
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 36 54" src="https://user-images.githubusercontent.com/121299370/235999240-6e39a37e-cc13-4f77-b9f2-8d56d86af1b2.png">
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 37 17" src="https://user-images.githubusercontent.com/121299370/235999378-6c483e53-aced-4400-9b35-b73199324400.png">
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 37 55" src="https://user-images.githubusercontent.com/121299370/235999564-125f1f96-0a0a-486d-a6b3-9d5a1d1ff51f.png">
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 38 28" src="https://user-images.githubusercontent.com/121299370/235999685-79619c15-804f-4aab-a691-64639f3524b8.png">
+
