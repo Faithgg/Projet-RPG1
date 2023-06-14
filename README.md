@@ -62,8 +62,9 @@ juste pour le féliciter du fait qu'il a été pu réduire la puissance de l'org
 Niveau 5: Ce niveau est un labyrinthe et consiste au joueur à sortir du labyrinthe en vie. En passant,
 il a la possibilité de prendre des points représentés par "€" et de surtout éviter les ennemis "✘" en couleurs rouges.
 Les points/argents dans cette partie lui serviront de pièces pour payer à la boutique des vies en cas de manque de vie. C'est une façon 
-de faire pour lui permettre d'utiliser ses pièces pour se réanimer. Autant pour un joueur de ne pas négliger ces pièces car c'est un labyrinthe
-peu complexe. La sortie de ce labyrinthe est là où se trouve les enfants à récupérer.
+de faire pour lui permettre d'utiliser ses pièces pour se réanimer. Autant pour un joueur de ne pas négliger ces pièces car c'est un labyrinthe peu complexe. La sortie de ce labyrinthe est là où se trouve les enfants à récupérer.
+
+BONNE CHANCE CHERS HEROS
 
 <img width="1436" alt="Capture d’écran 2023-05-03 à 19 34 56" src="https://user-images.githubusercontent.com/121299370/235998646-a7d2ba02-8a66-48ff-834e-55bc4e147add.png">
 <img width="1436" alt="Capture d’écran 2023-05-03 à 19 35 26" src="https://user-images.githubusercontent.com/121299370/235998803-c67e9611-351e-4580-975a-3f936a4cb37d.png">
