@@ -1,7 +1,7 @@
 Le dossier composant ce fichier README est le dossier principal qui héberge les différentes fonctions de notre RPG.
 Veuillez le lire jusqu'à la fin pour comprendre comment ça marche.  
 
-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- Le contexte du Jeu -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- Le contexte du Jeu -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 Mia est une jeune fille de 15 ans qui a s'est fait capturer par une ogre . La disparition de Mia éveil le village tout entier sur la menace qu'est cette Ogre
 c'est alors que vous, en role du Cherif du village décide de se mettre à la poursuite de l'ogre .
 En allant sa poursuite il rencontra beaucoup de difficultés sur sa route ce qui transformât sa poursuite en aventure pour retrouver les enfants disparus.")
